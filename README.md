@@ -1,6 +1,6 @@
 # Olá, eu sou Felipe, bem vindo ao meu GitHub!!! 👋
 
-- ☕ Desenvolvedor backend em construção ...
+- ☕ Desenvolvedor full stack em construção ...
 - 🎓 Cursando segundo semestre em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul;
 - 💻 Em busca da minha primeira oportunidade em tecnologia;
 - ⚡ Curiosidade: amante de boas narrativas e games competitivos.
