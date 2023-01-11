@@ -1,7 +1,7 @@
 # Olá, me chamo Felipe
 ## Bem vindo ao meu GitHub
 
-☕ Tenho 27 anos, sou desenvolverdor com foce em ReactJS.
+☕ Tenho 27 anos, sou desenvolverdor com foco em ReactJS.
 
 🎓 Tenho prazer no aprendizado e busco a melhoria contínua de minha competências desenvolvendo projetos pessoais, aplicando técnicas de aprendizado e me envolvendo em comunidades e com pessoas que partilham do mesmo entusiasmo.
 
