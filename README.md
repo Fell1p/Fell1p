@@ -1,12 +1,10 @@
-# Olá, eu sou Felipe, bem vindo ao meu GitHub!!! 👋
+# Olá, me chamo Felipe
+## Bem vindo ao meu GitHub
 
-- ☕ Desenvolvedor full stack em construção ...
-- 🎓 Cursando segundo semestre em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul;
-- 💻 Em busca da minha primeira oportunidade em tecnologia;
-- ⚡ Curiosidade: amante de boas narrativas e games competitivos.
+☕ Tenho 27 anos, sou desenvolverdor com foce em ReactJS.
+🎓 Tenho prazer no aprendizado e busco a melhoria contínua de minha competências desenvolvendo projetos pessoais, aplicando técnicas de aprendizado e me envolvendo em comunidades e com pessoas que partilham do mesmo entusiasmo.
 
 <div align="center">
-     <a href = "mailto:luofelipe@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-rez-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
