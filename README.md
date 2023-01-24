@@ -16,7 +16,11 @@
 ## 📑Skill's
 
 <div align="center">     
-     <img src= "https://raw.githubusercontent.com/JCDMeira/JCDMeira/master/images/react.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/JCDMeira/JCDMeira/master/images/git.svg"/>  
+  <a href = "https://pt-br.reactjs.org/"><img src= "https://raw.githubusercontent.com/JCDMeira/JCDMeira/master/images/react.svg"/></a> 
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/></a> 
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /></a> 
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a> 
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/JCDMeira/JCDMeira/master/images/git.svg"/></a>
  </div>
  
  # Meus contatos: 
