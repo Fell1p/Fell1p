@@ -1,4 +1,4 @@
-# Olá, me chamo Felipe
+# Olá, me chamo [Felipe Rezende de Almeida](https://www.linkedin.com/in/felipe-rez-almeida/)
 ## Bem vindo ao meu GitHub
 
 ☕ Tenho 27 anos, sou desenvolvedor com foco em ReactJS.
@@ -10,17 +10,18 @@
   <a href="https://www.linkedin.com/in/felipe-rez-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
+
+## :chart_with_upwards_trend: Minhas estatísticas
+
 <div align='center'>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fell1p&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fell1p&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fell1p&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fell1p&layout=compact&langs_count=7&theme=calm"/>
 </div>
 
 ## 📑Skill's
 
 <div align="center">     
-     <img src= "https://raw.githubusercontent.com/JCDMeira/JCDMeira/master/images/react.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/JCDMeira/JCDMeira/master/images/git.svg"/>
-
-  
+     <img src= "https://raw.githubusercontent.com/JCDMeira/JCDMeira/master/images/react.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/JCDMeira/JCDMeira/master/images/git.svg"/>  
  </div>
  
  
