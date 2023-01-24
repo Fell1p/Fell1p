@@ -28,5 +28,4 @@
  <div align="center">
   <a href = "mailto:luofelipe@hotmail.com"><img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5382-outlook_102516.png" target="_blank" width="40" height="40"></a>
   <a href="https://www.linkedin.com/in/felipe-rez-almeida/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/642/PNG/512/linkedin_icon-icons.com_59208.png" target="_blank" dth="40" height="40"></a> 
-  <a href="https://www.instagram.com/fell1p/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/792/PNG/512/INSTAGRAM_icon-icons.com_65535.png" target="_blank" dth="40" height="40"></a> 
 </div>
