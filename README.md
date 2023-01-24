@@ -4,6 +4,9 @@
 ☕ Tenho 27 anos, sou desenvolvedor com foco em ReactJS.
 
 🎓 Possuo prazer no aprendizado e busco a melhoria contínua de minhas competências desenvolvendo projetos pessoais, aplicando técnicas de aprendizado e me envolvendo em comunidades e com pessoas que partilham do mesmo entusiasmo.
+
+⚡ Falando um pousco sobre mim, sou cinéfilo, amante de games e tenho satisfação no crescimento tecnico e no desenvolvimento pessoal.
+
 <br>
 
 ## :chart_with_upwards_trend: Minhas estatísticas
