@@ -23,7 +23,7 @@
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/JCDMeira/JCDMeira/master/images/git.svg"/></a>
  </div>
  
- # Meus contatos: 
+ ## Meus contatos: 
  
  <div align="center">
   <a href = "mailto:luofelipe@hotmail.com"><img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5382-outlook_102516.png" target="_blank" width="40" height="40"></a>
