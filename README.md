@@ -4,11 +4,6 @@
 ☕ Tenho 27 anos, sou desenvolvedor com foco em ReactJS.
 
 🎓 Possuo prazer no aprendizado e busco a melhoria contínua de minhas competências desenvolvendo projetos pessoais, aplicando técnicas de aprendizado e me envolvendo em comunidades e com pessoas que partilham do mesmo entusiasmo.
-
-<div align="center">
-  <a href = "mailto:luofelipe@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-rez-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 <br>
 
 ## :chart_with_upwards_trend: Minhas estatísticas
@@ -24,5 +19,10 @@
      <img src= "https://raw.githubusercontent.com/JCDMeira/JCDMeira/master/images/react.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/JCDMeira/JCDMeira/master/images/git.svg"/>  
  </div>
  
+ # Meus contatos: 
  
- 
+ <div align="center">
+  <a href = "mailto:luofelipe@hotmail.com"><img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5382-outlook_102516.png" target="_blank" width="40" height="40"></a>
+  <a href="https://www.linkedin.com/in/felipe-rez-almeida/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/642/PNG/512/linkedin_icon-icons.com_59208.png" target="_blank" dth="40" height="40"></a> 
+  <a href="https://www.instagram.com/fell1p/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/792/PNG/512/INSTAGRAM_icon-icons.com_65535.png" target="_blank" dth="40" height="40"></a> 
+</div>
